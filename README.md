@@ -4,7 +4,7 @@
 
 $cart: Instance of your `$cart` or `$order` model `Commerce_OrderModel`
 
-$types: Array of Produce Types to sort on
+$types: Array of Product Types to sort on
 
 $bykey: String of `name` or `id` depending on how you wish to define your `$types`
 
