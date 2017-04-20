@@ -46,3 +46,5 @@ Example Markup:
             Markup for standard products...
         {% endif %}
     {% endfor %}
+
+Notice Product Types not defined in `$types` will be keyed under "unsorted".
