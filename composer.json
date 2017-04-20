@@ -1,0 +1,14 @@
+{
+	"name": "simplethemes/sortcart",
+	"description": "Craft Commerce plugin to sort cart/order lineitems by Product Type.",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Casey Lee",
+			"homepage": "github.com/simplethemes"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
